@@ -6,6 +6,7 @@ public class SumNaturalNumbers {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//new comment added
 		System.out.println("Enter the number of natural numbers for which you want to calculate the sum:");
 		Scanner scan = new Scanner(System.in);
 		int num = scan.nextInt();
